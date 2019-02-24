@@ -133,7 +133,7 @@ footer {
 
 .footer-content {
   display: flex;
-  width: 970px;
+  max-width: 970px;
   margin: auto;
   justify-content: space-around;
 }
